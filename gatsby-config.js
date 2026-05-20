@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://danfelix97.com/`,
+    siteUrl: `https://danfelix97.netlif.app/`,
     // Your Name
     name: 'Daniel Felix',
     // Main Site Title
@@ -19,10 +19,10 @@ module.exports = {
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'Dungeon Master',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'A top-down game I made on Unity! You go through different levels of increasing difficulty. There are the scripts I used that served as the foundation of my game.',
+        link: 'https://github.com/danfelix97/Dungeon-Master-scripts',
       },
       {
         name: 'ExtensionKit',
